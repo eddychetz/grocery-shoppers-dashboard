@@ -1,1 +1,2 @@
-# grocery-shoppers-dashboard
+# Grocery Shoppers Dashboard
+This is a dashboard about Grocery Shoppers customers.
